@@ -7,7 +7,6 @@ permalink: 2023-ws-ai-programme
 ## Winter school on AI & society
 January 16-19(20), 2023, Olomouc, Czechia
 
-
 An intensive course with lectures on the history of AI, technology and society, science fiction and pop culture, current applications of AI, and practical exercises on making sense of the complex discourses on technology.
 
 **Winter School on AI & society, 16-19 January 2023, Palacký University Olomouc**
